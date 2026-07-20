@@ -101,7 +101,7 @@ function DynastyHome() {
 
       <section className="hero" id="top">
         <div className="hero-kicker reveal reveal-one">
-          <Compass size={16} /> A personal archive of a life in progress
+          <Compass size={16} /> A personal archive of a life in progress. Blessed to be here
         </div>
         <div className="hero-title-wrap">
           <h1 className="hero-title" aria-label="Dynasty">
